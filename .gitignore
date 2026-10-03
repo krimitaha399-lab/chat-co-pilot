@@ -2,5 +2,10 @@
 __pycache__/
 *.pyc
 .env
+<<<<<<< HEAD
 test.py
 config.py
+=======
+config.py
+test.py
+>>>>>>> 552c37379f18d2d3785762cbe8ae7ce045241442
